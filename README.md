@@ -9,7 +9,7 @@ Steps to run BJJQuestionnaire
 1: Ensure you have both Python and pip installed. Development was done using Python 3.11.3  
 2: Ensure you have git installed  
 3: Clone down the app from this repo  
-4: Install the most recent version of Django. Run `pip install django` in a terminal within the app 
+4: Install the most recent version of Django. Run `pip install django` in a terminal within the app  
 5: Run using `python manage.py runserver`. This will allow the app to be accessed on http://127.0.0.1:8000/
 
 BJJQuestionnaire uses Django's out of the box admin site to add and work with questions.  
